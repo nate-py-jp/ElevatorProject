@@ -2,6 +2,8 @@ from human import Human
 from elevator import Elevator
 from dual_brain import DualBrain
 
+print("Starting main...")
+
 # create human, elevators and brain
 nate = Human()
 elevator_right = Elevator("right")
